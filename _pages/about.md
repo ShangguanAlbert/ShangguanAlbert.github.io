@@ -32,8 +32,8 @@ His Mottos:
 - *2025.07* &nbsp;🎉🎉 
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now, 本硕连读)* 现代教育技术(复合物理学)硕士研究生, 经亨颐教育学院, 杭州师范大学.
-- *2021.09 - 2025.06* 物理学(物理学+教育技术学本硕衔接试验班)(师范), 物理学理学学士, 物理学院, 杭州师范大学.
+- *2021.09 - 2025.06 (now, 本硕连读)* 现代教育技术(复合物理学)硕士研究生, 经亨颐教育学院, 杭州师范大学. [Master's Student in Modern Educational Technology (Interdisciplinary Physics), Jing Hengyi School of Education, Hangzhou Normal University]
+- *2021.09 - 2025.06* 物理学(物理学+教育技术学本硕衔接试验班)(师范), 物理学理学学士, 物理学院, 杭州师范大学. [B.S. in Physics (Physics and Educational Technology Integrated Bachelor-Master Program) (Teacher Education), School of Physics, Hangzhou Normal University]
 <br>
 <br>
 <br>
@@ -48,11 +48,20 @@ His Mottos:
 - ....
 
 # 📚 Academic Services
-- .....
+- Learning and Motivation reviewer
+- Education and Information Technology reviewer
 
 # 🎖 Awards in Robotics
-- 2025.10 2025年中国机器人大赛暨RoboCup机器人世界杯中国赛(总决赛) 二等奖
-- 2025.07 2025年中国机器人大赛暨RoboCup机器人世界杯中国赛(浙江赛区) 二等奖
+- *2025.10* 2025年中国机器人大赛暨RoboCup机器人世界杯中国赛(总决赛) 二等奖 [Second Prize, 2025 China Robot Competition & RoboCup China Open (Finals)]
+- *2025.07* 2025年中国机器人大赛暨RoboCup机器人世界杯中国赛(浙江赛区) 季军 [Third Place, 2025 China Robot Competition & RoboCup China Open (Zhejiang Regional)]
+- *2025.05* 第九届浙江省大学生机器人竞赛 优秀奖 [Honorable Mention, The 9th Zhejiang Undergraduate Robot Competition]
+- *2024.11* 2024年中国机器人大赛暨RoboCup机器人世界杯中国赛(总决赛) 二等奖 [Second Prize, 2024 China Robot Competition & RoboCup China Open (Finals)]
+- *2024.07* 2024年中国机器人大赛暨RoboCup机器人世界杯中国赛(浙江赛区) 季军 [Third Place, 2024 China Robot Competition & RoboCup China Open (Zhejiang Regional)]
+- *2024.05* 第八届浙江省大学生机器人竞赛 优秀奖 [Honorable Mention, The 8th Zhejiang Undergraduate Robot Competition]
+- *2023.10* 2023年中国机器人大赛暨RoboCup机器人世界杯中国赛(总决赛) 一等奖 [First Prize, 2023 China Robot Competition & RoboCup China Open (Finals)]
+- *2023.08* 2024年中国机器人大赛暨RoboCup机器人世界杯中国赛(专项赛) 二等奖 [Second Prize, 2023 China Robot Competition & RoboCup China Open (Specialized Competition)]
+<br>
+<br>
 
 # 💬 Talks and Conferences
 - ...
