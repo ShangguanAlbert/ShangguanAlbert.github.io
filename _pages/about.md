@@ -18,19 +18,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-....
+Fuze Shangguan is a Master’s student majoring in Modern Educational Technology (Integrated with Physics) at the Jing Hengyi School of Education, Hangzhou Normal University. His research focuses on AI-assisted Learning, the Assessment of Thinking Skills, and Educational Robotics.
+
+上官福泽是杭州师范大学经亨颐教育学院现代教育技术（复合物理学）硕士研究生。他的研究聚焦于人工智能辅助学习、思维技能测评和教育机器人。
 
 His Mottos:
 
-*"Infusing technology with the warmth of education, and imbuing education with the promise of tomorrow through technology."*
+*“Equipping students with future-ready skills.”*
 
-
+*“教会学生面向未来的能力。”*
 
 # 🔥 News
 - *2025.07* &nbsp;🎉🎉 
 
 # 📖 Educations
-- ....
+- *2021.09 - 2025.06 (now, 本硕连读)* 现代教育技术(复合物理学)硕士研究生, 经亨颐教育学院, 杭州师范大学.
+- *2021.09 - 2025.06* 物理学(物理学+教育技术学本硕衔接试验班)(师范), 物理学理学学士, 物理学院, 杭州师范大学.
 <br>
 <br>
 <br>
@@ -44,11 +47,10 @@ His Mottos:
 
 - ....
 
-
 # 📚 Academic Services
 - .....
 
-# 🎖 Honors and Awards
+# 🎖 Awards in Educational Robotics
 - ....
 
 # 💬 Talks and Conferences

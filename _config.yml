@@ -16,12 +16,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "上官福泽<br>Fuze Shangguan"
-  avatar           : "images/profile.png"
+  avatar           : "images/cute_profile.jpeg"
   bio              : "Hangzhou Normal University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=1_RIr1YAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=1_RIr1YAAAAJ"
   email            : "sgfzalbert@163.com"
   researchgate     : "https://www.researchgate.net/profile/Fuze-Shangguan"
   uri              :
@@ -34,7 +34,7 @@ author:
   github           : # e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : shangguanfz
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 
