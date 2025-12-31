@@ -50,7 +50,7 @@ His Mottos:
 # 📚 Academic Services
 - .....
 
-# 🎖 Awards in Robotics
+# 🎖 Honors and Awards
 - ....
 
 # 💬 Talks and Conferences
