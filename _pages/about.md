@@ -50,8 +50,9 @@ His Mottos:
 # 📚 Academic Services
 - .....
 
-# 🎖 Honors and Awards
-- ....
+# 🎖 Awards in Robotics
+- 2025.10 2025年中国机器人大赛暨RoboCup机器人世界杯中国赛(总决赛) 二等奖
+- 2025.07 2025年中国机器人大赛暨RoboCup机器人世界杯中国赛(浙江赛区) 二等奖
 
 # 💬 Talks and Conferences
 - ...
